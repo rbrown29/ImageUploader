@@ -13,3 +13,5 @@
 
 ### Author and Code BY
 ### Richard Brown
+
+![Logic layout](images/Map.png?raw=true{:height="50px"width="50px"})
