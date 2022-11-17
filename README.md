@@ -15,4 +15,4 @@
 ### Author and Code BY
 ### Richard Brown
 
-![Logic layout](/progress layout.png?raw=true{:height="50px"width="50px"})
+![Logic layout](main/progress layout.png?raw=true{:height="50px"width="50px"})
