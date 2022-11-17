@@ -16,3 +16,6 @@
 ### Richard Brown
 
 ![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
