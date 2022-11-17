@@ -16,6 +16,6 @@
 ### Richard Brown
 
 ![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
-![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
-![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
-![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/progress%20layout.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/img1.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/img2.png?raw=true{:height="10px"width="10px"})
+![Logic layout](https://github.com/rbrown29/ImageUploader/blob/main/img3.png?raw=true{:height="10px"width="10px"})
