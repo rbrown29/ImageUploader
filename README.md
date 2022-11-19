@@ -10,6 +10,7 @@
 * AJAX
 * PHP
 * MySQL
+* Apache
 * XAMPP
 
 ### Author and Code BY
